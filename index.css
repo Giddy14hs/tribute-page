@@ -1,0 +1,41 @@
+/*Work Section*/
+#work{
+  background: url('../images/images5');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  font-weight: bold;
+}
+#work i{
+  color: #990099;
+}
+
+/*Work Section*/
+#footer{
+  background-color: #bdb7b7;
+  width: 100%;
+}
+#footer .container{
+  margin: auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: white;
+}
+.social{
+  color: white;
+  margin-right: 25px;
+  font-size: 22px;
+  text-decoration: none;
+  padding-left: 10px 10px 10px 10px;
+}
+.content h2{
+  font-size: 1.2rem;
+  text-transform: uppercase;
+}
+#footer .container .content{
+  padding: 10px 20px;
+  color: white;
+}
